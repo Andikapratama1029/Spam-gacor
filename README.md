@@ -6,7 +6,7 @@ pkg update && pkg upgrade
 pkg install python
 pkg install python-pip
 pkg install git
-git clone https://github.com/Dra-ID/Start-Otp
+https://github.com/Andikapratama1029/Spam-gacor.git
 cd Start-Otp
 pip install -r requirements.txt
 python run.py
